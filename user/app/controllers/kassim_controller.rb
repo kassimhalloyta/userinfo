@@ -1,0 +1,2 @@
+class KassimController < ApplicationController
+end
